@@ -13,3 +13,4 @@ These are the solutions of leetcode problems solved by me.
 1. Reverse String
 2. Reverse Words in a string
 3. To lowercase
+4. Valid Palindrome
