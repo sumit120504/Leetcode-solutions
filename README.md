@@ -14,3 +14,4 @@ These are the solutions of leetcode problems solved by me.
 2. Reverse Words in a string
 3. To lowercase
 4. Valid Palindrome
+5. Find the Index of the First Occurence in a String
