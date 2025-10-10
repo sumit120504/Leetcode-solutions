@@ -15,3 +15,6 @@ These are the solutions of leetcode problems solved by me.
 3. To lowercase
 4. Valid Palindrome
 5. Find the Index of the First Occurence in a String
+
+# Hashing
+1.  Contains Duplicates
