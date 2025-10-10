@@ -36,46 +36,36 @@
 // -109 <= nums[i] <= 109
 
 //Code
+#define TABLE_SIZE 10007
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-
-#define TABLE_SIZE 10007 
-
-typedef struct Node {
+typedef struct Node{
     int val;
     struct Node* next;
-} Node;
+}Node;
 
-int hash(int key) {
-    if (key < 0) key = -key; 
-    return key % TABLE_SIZE;
+int hash(int key){
+    if (key<0) key = -key;
+    return key % 10007;
 }
 
-bool insert(Node** table, int key) {
+bool insert(Node** table, int key){
     int idx = hash(key);
-    Node* curr = table[idx];
-
-   
-    while (curr) {
-        if (curr->val == key)
-            return false;
+    Node* curr = table[idx]; 
+    while(curr){
+        if(curr->val == key) return true;
         curr = curr->next;
     }
     Node* newNode = (Node*)malloc(sizeof(Node));
     newNode->val = key;
     newNode->next = table[idx];
     table[idx] = newNode;
-    return true;
+    return false;
 }
 
 bool containsDuplicate(int* nums, int numsSize) {
-    Node* table[TABLE_SIZE] = {0};  
-
-    for (int i = 0; i < numsSize; i++) {
-        if (!insert(table, nums[i])) 
-            return true;
+    Node* table[TABLE_SIZE] = {0};
+    for(int i= 0; i<numsSize; i++){
+        if(insert(table, nums[i])) return true;
     }
     return false;
 }
