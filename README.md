@@ -18,3 +18,4 @@ These are the solutions of leetcode problems solved by me.
 
 # Hashing
 1.  Contains Duplicates
+2.  Intersection of Two Arrays
