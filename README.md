@@ -17,5 +17,6 @@ These are the solutions of leetcode problems solved by me.
 5. Find the Index of the First Occurence in a String
 
 # Hashing
-1.  Contains Duplicates
-2.  Intersection of Two Arrays
+1. Contains Duplicates
+2. Intersection of Two Arrays
+3. Valid Anagram
