@@ -20,3 +20,6 @@ These are the solutions of leetcode problems solved by me.
 1. Contains Duplicates
 2. Intersection of Two Arrays
 3. Valid Anagram
+
+# Two Pointers
+1. Remove Element
