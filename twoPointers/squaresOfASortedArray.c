@@ -25,9 +25,9 @@
 
 // Follow up: Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?
 
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
+
+// Code
+
 int* sortedSquares(int* nums, int numsSize, int* returnSize) {
     int* result = (int*)malloc(sizeof(int)*numsSize);
     *returnSize = numsSize;

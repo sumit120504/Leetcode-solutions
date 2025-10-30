@@ -26,3 +26,4 @@ These are the solutions of leetcode problems solved by me.
 2. Sort Colors
 3. Two Sum II
 4. Squares Of a Sorted Array
+5. 3 Sum
