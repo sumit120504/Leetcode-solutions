@@ -25,3 +25,4 @@ These are the solutions of leetcode problems solved by me.
 1. Remove Element
 2. Sort Colors
 3. Two Sum II
+4. Squares Of a Sorted Array
