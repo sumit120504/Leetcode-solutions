@@ -27,3 +27,6 @@ These are the solutions of leetcode problems solved by me.
 3. Two Sum II
 4. Squares Of a Sorted Array
 5. 3 Sum
+
+# Sliding Window
+1. Maximum Average Subarray I
