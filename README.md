@@ -34,3 +34,4 @@ These are the solutions of leetcode problems solved by me.
 3. Subarray Product Less Than K
 4. Longest Substring Without Repeating Characters
 5. Minimum Size Subarray Sum
+6. Longest Repeating Character Replacement
