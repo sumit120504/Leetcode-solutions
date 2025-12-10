@@ -35,3 +35,4 @@ These are the solutions of leetcode problems solved by me.
 4. Longest Substring Without Repeating Characters
 5. Minimum Size Subarray Sum
 6. Longest Repeating Character Replacement
+7. Permutation In String
