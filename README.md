@@ -40,3 +40,4 @@ These are the solutions of leetcode problems solved by me.
 # Stack
 1. Valid Parentheses
 2. Min Stack
+3. Baseball Game
