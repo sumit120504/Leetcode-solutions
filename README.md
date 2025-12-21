@@ -38,4 +38,5 @@ These are the solutions of leetcode problems solved by me.
 7. Permutation In String
 
 # Stack
-1.  Valid Parentheses
+1. Valid Parentheses
+2. Min Stack
