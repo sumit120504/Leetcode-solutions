@@ -54,7 +54,7 @@ This repository contains my solutions to LeetCode problems, primarily implemente
 2. [Min Stack](./stack/minStack.c)
 3. [Baseball Game](./stack/baseballGame.c)
 4. [Daily Temperatures](./stack/dailyTemperatures.c)
-
+5. [Next Greater Element I](./stack/nextGreaterElementI.c)
 ---
 
 ## Language
