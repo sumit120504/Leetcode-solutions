@@ -2,7 +2,7 @@
 These are the solutions of leetcode problems solved by me.
 
 # Arrays
-1. Two Sum
+1. [Two Sum](./Arrays/twoSum.c) 
 2. Remove Duplicates from sorted array
 3. Best time to buy and sell stock
 4. Move Zeros
