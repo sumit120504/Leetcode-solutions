@@ -1,44 +1,64 @@
-# Leetcode-solutions
-These are the solutions of leetcode problems solved by me.
+# Leetcode Solutions
 
-# Arrays
-1. [Two Sum](./Arrays/twoSum.c) 
-2. Remove Duplicates from sorted array
-3. Best time to buy and sell stock
-4. Move Zeros
-5. Rotate Array
+This repository contains my solutions to LeetCode problems, primarily implemented in **C**, organized by topic for structured DSA practice.
 
+---
 
-# Strings
-1. Reverse String
-2. Reverse Words in a string
-3. To lowercase
-4. Valid Palindrome
-5. Find the Index of the First Occurence in a String
+## Arrays
+1. [Two Sum](./arrays/twoSum.c)
+2. [Remove Duplicates from Sorted Array](./arrays/removeDuplicatesFromSortedArray.c)
+3. [Best Time to Buy and Sell Stock](./arrays/bestTimeToBuyAndSellStock.c)
+4. [Move Zeroes](./arrays/moveZeroes.c)
+5. [Rotate Array](./arrays/rotateArray.c)
 
-# Hashing
-1. Contains Duplicates
-2. Intersection of Two Arrays
-3. Valid Anagram
+---
 
-# Two Pointers
-1. Remove Element
-2. Sort Colors
-3. Two Sum II
-4. Squares Of a Sorted Array
-5. 3 Sum
+## Strings
+1. [Reverse String](./strings/reverseString.c)
+2. [Reverse Words in a String](./strings/reverseWordsInAString.c)
+3. [To Lower Case](./strings/toLowerCase.c)
+4. [Valid Palindrome](./strings/validPalindrome.c)
+5. [Find the Index of the First Occurrence in a String](./strings/findTheIndexOfTheFirstOccurenceInAString.c)
 
-# Sliding Window
-1. Maximum Average Subarray I
-2. Max Consecutive Ones III
-3. Subarray Product Less Than K
-4. Longest Substring Without Repeating Characters
-5. Minimum Size Subarray Sum
-6. Longest Repeating Character Replacement
-7. Permutation In String
+---
 
-# Stack
-1. Valid Parentheses
-2. Min Stack
-3. Baseball Game
-4. Daily Temperatures   
+## Hashing
+1. [Contains Duplicate](./Hashing/containsDuplicates.c)
+2. [Intersection of Two Arrays](./Hashing/intersectionOfTwoArrays.c)
+3. [Valid Anagram](./Hashing/validAnagram.c)
+
+---
+
+## Two Pointers
+1. [Remove Element](./twoPointers/removeElement.c)
+2. [Sort Colors](./twoPointers/sortColors.c)
+3. [Two Sum II – Input Array Is Sorted](./twoPointers/twoSumII.c)
+4. [Squares of a Sorted Array](./twoPointers/squaresOfASortedArray.c)
+5. [Three Sum](./twoPointers/threeSum.c)
+
+---
+
+## Sliding Window
+1. [Maximum Average Subarray I](./SlidingWindow/maximumAverageSubarrayI.c)
+2. [Max Consecutive Ones III](./SlidingWindow/maxConsecutiveOnesIII.c)
+3. [Subarray Product Less Than K](./SlidingWindow/subarrayProductLessThanK.c)
+4. [Longest Substring Without Repeating Characters](./SlidingWindow/longestSubstringWithoutRepeatingCharacters.c)
+5. [Minimum Size Subarray Sum](./SlidingWindow/minimumSizeSubarraySum.c)
+6. [Longest Repeating Character Replacement](./SlidingWindow/longestRepeatingCharacterReplacement.c)
+7. [Permutation in String](./SlidingWindow/permutationInString.c)
+
+---
+
+## Stack
+1. [Valid Parentheses](./stack/validParentheses.c)
+2. [Min Stack](./stack/minStack.c)
+3. [Baseball Game](./stack/baseballGame.c)
+4. [Daily Temperatures](./stack/dailyTemperatures.c)
+
+---
+
+## Language
+- C
+
+## Platform
+- LeetCode
