@@ -41,3 +41,4 @@ These are the solutions of leetcode problems solved by me.
 1. Valid Parentheses
 2. Min Stack
 3. Baseball Game
+4. Daily Temperatures   
