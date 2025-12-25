@@ -4,6 +4,16 @@ This repository contains my solutions to LeetCode problems, primarily implemente
 
 ---
 
+## LeetCode Stats
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sharmajii_sumit?theme=dark&ext=contest&font=Source%20Code%20Pro&border=0">
+	<source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/sharmajii_sumit?theme=light&ext=contest&font=Source%20Code%20Pro&border=0">
+	<img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/sharmajii_sumit?theme=light&ext=contest&font=Source%20Code%20Pro&border=0"/>
+</picture>
+
+---
+
 ## Arrays
 1. [Two Sum](./arrays/twoSum.c)
 2. [Remove Duplicates from Sorted Array](./arrays/removeDuplicatesFromSortedArray.c)
@@ -61,6 +71,7 @@ This repository contains my solutions to LeetCode problems, primarily implemente
 
 ## Queue & Deque
 1. [Implement Queue using Stacks](./Queue&Deque/implementQueueUsingStacks.c)
+2. [Number Of Recent Calls](./Queue&Deque/numberOfRecentCalls.c)
 
 ---
 
