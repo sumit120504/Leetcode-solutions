@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, primarily implemente
 1. [Implement Queue using Stacks](./Queue&Deque/implementQueueUsingStacks.c)
 2. [Number Of Recent Calls](./Queue&Deque/numberOfRecentCalls.c)
 3. [Design Circular Queue](./Queue&Deque/designCircularQueue.c)
+4. [Sliding Window Maximum](./Queue&Deque/slidingWindowMaximum.c)
 
 ---
 
