@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems, primarily implemente
 
 ## Linked List 
 1. [Reverse Linked List](./linkedList/reverseLinkedList.c)
+2. [Merge Two Sorted Lists](./linkedList/mergeTwoSortedLists.c)
 
 ---
 ## Language
